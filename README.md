@@ -1,3 +1,13 @@
+# Use the upstream fork for self-hosting Habitica instead!
+
+Link to the upstream fork: https://github.com/awinterstein/habitica
+
+For some silly SEO reason, my outdated subfork seems to be getting prioritized instead of this better maintained parent fork.
+
+**Avoid using this repository for self-hosting and instead use the link shared above if you're looking to self-host Habitica!**
+
+--------------------
+
 # Habitica Self-Hosted
 
 Adaptions and infrastructure to facilitate self-hosting of the habit-building program [Habitica](https://habitica.com). It is based on the source code and assets of the [Habitica Repository](https://github.com/HabitRPG/habitica), hence the [LICENSE](https://github.com/HabitRPG/habitica/blob/develop/LICENSE) from there applies here and to the adaptions in this repository as well.
